@@ -37,6 +37,13 @@ body{
 }
 
 #reset-btn{
+    height: 5vmin;
+    width: 10vmin;
     background-color: #ff7f50;
     color: white;
+    border: none;
+    border-radius: 0.75rem;
+    justify-content: center;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+    font-weight: bold;
 }
