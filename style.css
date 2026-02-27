@@ -36,3 +36,7 @@ body{
     color: #512209;
 }
 
+#reset-btn{
+    background-color: #ff7f50;
+    color: white;
+}
