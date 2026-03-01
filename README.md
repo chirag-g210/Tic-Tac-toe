@@ -30,6 +30,7 @@ tic-tac-toe/
 │── index.html
 │── style.css
 │── script.js
+│── app.js
 </pre>
 
 ---
