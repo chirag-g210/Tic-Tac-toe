@@ -37,13 +37,14 @@ body{
 }
 
 #reset-btn{
-    height: 5vmin;
-    width: 10vmin;
+    padding: 1rem;
+    font-size: 0.65rem;
     background-color: #ff7f50;
-    color: white;
+    color: #fff;
     border: none;
-    border-radius: 0.75rem;
-    justify-content: center;
+    border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
-    font-weight: bold;
+}
+#reset-btn:hover{
+    transform: scale(1.1);
 }
