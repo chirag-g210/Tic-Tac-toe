@@ -25,13 +25,13 @@ This project demonstrates basic game logic, DOM manipulation, and responsive UI 
 ---
 
 ## 📂 Project Structure
-<pre>
+```
 tic-tac-toe/
 │── index.html
 │── style.css
 │── script.js
 │── app.js
-</pre>
+```
 
 ---
 
